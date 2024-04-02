@@ -1,4 +1,4 @@
-package day_01;
+package com.tns.day_01;
 
 public class Datatypes {
 	public static void main(String[] args) {

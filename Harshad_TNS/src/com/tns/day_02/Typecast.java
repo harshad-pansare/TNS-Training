@@ -1,4 +1,4 @@
-package day_02;
+package com.tns.day_02;
 
 public class Typecast {
 	public static void main(String[] args) {
