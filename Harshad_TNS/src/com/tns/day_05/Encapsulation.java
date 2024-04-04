@@ -5,6 +5,7 @@ public class Encapsulation {
 	private int serial_num;
 	private String Name;
 	private int age;
+	
 	public int getSerial_num() {
 		return serial_num;
 	}
